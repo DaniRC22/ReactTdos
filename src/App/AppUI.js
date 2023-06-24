@@ -33,7 +33,7 @@ function AppUI(){
             <TodosLoading/>
           </>
           )}
-          {error && <TodosError/>}
+          {(error && <TodosError/>)}
           {(!loading && seachedTodos.length === 0) && <EmptyTodos/>}
   
           {seachedTodos.map(todo=>(
