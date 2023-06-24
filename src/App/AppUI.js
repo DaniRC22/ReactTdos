@@ -9,6 +9,7 @@ import { EmptyTodos } from '../Empty';
 import React from 'react';
 import { Modal } from '../Modal';
 import { TodoContext } from '../TodoContext';
+import { TodoForm } from '../TodoForm';
 function AppUI(){
   const {seachedTodos,
     deleteTodo,
@@ -45,11 +46,11 @@ function AppUI(){
           ))}
           </TodoList>
   
-      <CreateTodoButton/>
+      <CreateTodoButton setopenModal={setopenModal}/>
 
       {openModal && (
               <Modal>
-              La funcion
+              <TodoForm/>
             </Modal>
       )}
 
