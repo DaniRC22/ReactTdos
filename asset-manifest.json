@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reacttdos/static/css/main.331c0b1f.css",
+    "main.js": "/reacttdos/static/js/main.bd2f8255.js",
+    "index.html": "/reacttdos/index.html",
+    "main.331c0b1f.css.map": "/reacttdos/static/css/main.331c0b1f.css.map",
+    "main.bd2f8255.js.map": "/reacttdos/static/js/main.bd2f8255.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.331c0b1f.css",
+    "static/js/main.bd2f8255.js"
+  ]
+}
