@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/reacttdos/static/css/main.331c0b1f.css",
-    "main.js": "/reacttdos/static/js/main.bd2f8255.js",
-    "index.html": "/reacttdos/index.html",
-    "main.331c0b1f.css.map": "/reacttdos/static/css/main.331c0b1f.css.map",
-    "main.bd2f8255.js.map": "/reacttdos/static/js/main.bd2f8255.js.map"
+    "main.css": "/C:/Users/ALDO/Documents/PLATZI/ReactTdos/build/static/css/main.331c0b1f.css",
+    "main.js": "/C:/Users/ALDO/Documents/PLATZI/ReactTdos/build/static/js/main.927cd489.js",
+    "index.html": "/C:/Users/ALDO/Documents/PLATZI/ReactTdos/build/index.html",
+    "main.331c0b1f.css.map": "/C:/Users/ALDO/Documents/PLATZI/ReactTdos/build/static/css/main.331c0b1f.css.map",
+    "main.927cd489.js.map": "/C:/Users/ALDO/Documents/PLATZI/ReactTdos/build/static/js/main.927cd489.js.map"
   },
   "entrypoints": [
     "static/css/main.331c0b1f.css",
-    "static/js/main.bd2f8255.js"
+    "static/js/main.927cd489.js"
   ]
 }
