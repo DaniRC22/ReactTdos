@@ -5,7 +5,7 @@ La rama principal contiene el código con el que eempezamos el curso. En las dem
 
 ¡Mucha suerte aprendiendo React! #NuncaParesDeAprender
 
-Aqui les dejo mi aplicación del curso de React en Platzi
+Aqui les dejo mi aplicación del curso de React en Platzi : "https://danirc22.github.io/ReactTdos/"
 
 ## Getting Started with Create React App
 
